@@ -200,5 +200,5 @@ from their original sources and regenerate embeddings using methods described ab
 
 ## Contact
 
-- Maintainer: Harshita Sahni — [hsahni@unm.edu](mailo:hsahni@unm.edu)
+- Maintainer: Harshita Sahni — [hsahni@unm.edu](mailto:hsahni@unm.edu)
 - PI: Dr. Trilce Estrada — [trilce@unm.edu](mailto:trilce@unm.edu)
